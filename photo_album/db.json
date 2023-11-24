@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Emmett Koss",
+      "id": 16
+    },
+    {
+      "name": "Kristine Roberts",
+      "id": 17
+    },
+    {
+      "name": "Mrs. Suzanne Nikolaus",
+      "id": 18
+    },
+    {
+      "name": "Monica Swift",
+      "id": 19
+    },
+    {
+      "name": "Rosalie Marks",
+      "id": 20
+    },
+    {
+      "name": "Donna Blick",
+      "id": 21
+    }
+  ],
+  "albums": [
+    {
+      "userId": 16,
+      "title": "Oriental Soft Chips",
+      "id": 1
+    },
+    {
+      "userId": 19,
+      "title": "Oriental Soft Shirt",
+      "id": 2
+    },
+    {
+      "userId": 16,
+      "title": "Rustic Bronze Ball",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94347",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38959",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27493",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27204",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97349",
+      "id": 5
+    }
+  ]
+}

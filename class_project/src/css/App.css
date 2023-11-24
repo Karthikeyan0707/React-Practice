@@ -1,0 +1,57 @@
+.app > h1 {
+  text-align: center;
+  background-color: orange;
+  margin: 10px 30px;
+}
+
+.app__body {
+  padding: 20px;
+  margin: 0px 30px;
+}
+
+.previous-value {
+  position: absolute;
+  right: 50px;
+  z-index: 99;
+  /* top: 10px; */
+  color: rgba(231, 6, 6, 0.817);
+}
+
+input.result {
+  height: 100px;
+  width: 100%;
+  /* border: 2px solid black; */
+  border: none;
+  text-align: right;
+  font-size: 32px;
+  position: relative;
+  max-width: 100vw;
+  margin-right: 50px;
+  float: right;
+  outline-style: none;
+}
+
+.column-3 {
+  width: 75%;
+  float: left;
+}
+
+.column-2 {
+  width: 50%;
+  float: left;
+}
+
+.column-1 {
+  width: 25%;
+  float: left;
+}
+
+button.calc-button {
+  width: 100%;
+  height: 85px;
+  border: 2px solid #ddd;
+  background-color: #eee;
+  font-size: 32px;
+  color: #555;
+  /* outline-style: none; */
+}
